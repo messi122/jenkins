@@ -21,6 +21,6 @@ public class IndexController {
 
     @GetMapping(value = "/")
     public String index(){
-        return "hello messi !!!!";
+        return "hello name !!";
     }
 }
